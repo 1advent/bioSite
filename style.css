@@ -106,6 +106,16 @@ nav a {
 nav a:hover {
     background: #80b4f2;
 }
+li a {
+    color: #fff;
+    text-decoration: none;
+    line-height: 1.5em;
+    padding-left: 1.5em;
+}
+li a:hover {
+    color: #6c97cc;
+    text-decoration: underline;
+}
 .center {
     text-align: center;
 }
